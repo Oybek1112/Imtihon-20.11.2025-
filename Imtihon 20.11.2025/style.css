@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: brown;
+    width: 1689px;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 21px;
+}
+
+.papa {
+    background-image: url("./Image/IMAGE\ \(1\).png");
+    width: 655px;
+    background-repeat: no-repeat;
+    height: 438px;
+    position: absolute;
+    left: 942px;
+    top: 249px;
+    color: white;
+}
+
+.h1 {
+    position: absolute;
+    left: -800px;
+    top: 20px;
+    font-size: 51px;
+    color: white;
+}
+
+.p {
+    position: absolute;
+    left: -800px;
+    top: 150px;
+    font-size: 20px;
+}
+
+button {
+    color: black;
+    background-color: rgb(95, 255, 47);
+    position: absolute;
+    left: -800px;
+    top: 250px;
+    width: 215px;
+    height: 60px;
+    font-size: 20px;
+    border: 0;
+}
+
+.Road {
+    color: white; 
+    position: absolute;
+    left: 727px;
+    top: 800px;
+}
+ 
+.imgg {
+    width: 129px;
+    height: 129px;
+    border-radius: 16px;
+    position: absolute;
+    left: 400px;
+    top: 65px;
+}
+
+.photo {
+    background-image: url("./Image/IMAGE\ \(2\).png");
+    position: absolute;
+    width: 672px;
+    height: 672px;
+    top: 700px;
+}
+
+.Spring {
+    border: 2px solid rgb(0, 255, 102);
+    width: 539px;
+    height: 250px;
+    color: white;
+    position: absolute;
+    left: 600px;
+    top: 160px;
+}
+
+.pp {
+ font-size: 16px;
+}
+
+.Summer {
+    border: 2px solid rgb(0, 255, 102);
+    width: 539px;
+    height: 250px;
+    color: white;
+    position: absolute;
+    left: -400px;
+    top: 100px;
+}
+
+.photo2 {
+    position: relative;
+    background-image: url("./Image/IMAGE\ \(2\).png");
+    width: 672px;
+    height: 672px;
+    top: 1300px;
+    left: 1000px;
+}
+
+.New {
+    border: 2px solid rgb(0, 255, 102);
+    width: 539px;
+    height: 250px;
+    color: white;
+    position: absolute;
+    left: 600px;
+    top: -20px;
+}
+
+.photo3 {
+    background-image: url("./Image/IMAGE\ \(2\).png");
+    width: 672px;
+    height: 672px;
+    top: 1400px;
+    position: relative;
+}
+
+.Artist {
+    color: white; 
+    font-size: 96px;
+    position: absolute;
+    top: 3000px;
+    left: 650px;
+}
+
+.art {
+    width: 320px;
+    height: 320px;    
+}
+
+.shak {
+    color: white;
+    position: absolute;
+    top: 3200px;
+    left: 100px;
+    text-align: center;
+}
+
+.baky {
+    color: white;
+    position: absolute;
+    top: 3200px;
+    left: 600px;
+    text-align: center;
+}
+
+.bak {
+    width: 320px;
+    height: 320px;
+}
+
+.vania {
+    color: white;
+    position: absolute;
+    top: 3200px;
+    left: 1150px;
+    text-align: center;
+}
+
+.van {
+    width: 320px;
+    height: 320px;
+}
+
+footer {
+    background-color: #42006A;
+    width: 1689px;
+    height: 238px;
+    position: absolute;
+    top: 3800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    color: white;
+}
+
+.powered {
+    font-size: 14px;
+}
